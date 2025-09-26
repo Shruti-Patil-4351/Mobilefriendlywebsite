@@ -1,4 +1,5 @@
 # Mobilefriendlywebsite
+
 **Key Mobile-Friendly Features**
 
 **Mobile-First Media Queries** - Uses max-width: 768px breakpoint for mobile devices
@@ -16,3 +17,4 @@
 **Proper Spacing** - Adjusted padding and margins for mobile screens
 
 **Live demo**-https://shruti-patil-4351.github.io/Mobilefriendlywebsite/
+
